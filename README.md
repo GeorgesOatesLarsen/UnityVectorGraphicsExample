@@ -4,6 +4,8 @@ This is a quick, bare-bones example of how to set up a Unity.VectorGraphics scen
 
 NOTE: You MAY have to go to Window > Package Manager and enable the Vector Graphics preview package. Since it is a preview package, you must have preview packages enabled. (Advanced > Show Preview Packages)
 
+Tested in Unity 2019.2.14f1
+
 # Thanks to:
 
 https://github.com/github/gitignore/blob/master/Unity.gitignore
